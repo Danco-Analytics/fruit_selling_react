@@ -1,21 +1,17 @@
 {
   "name": "fruit_selling_react",
   "version": "1.0.0",
-  "description": "Fruit selling website",
-  "main": "App.js",
+  "description": "fruit",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "start"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Danco-Analytics/fruit_selling_react.git"
   },
-  "keywords": [
-    "Fruit",
-    "Website"
-  ],
-  "author": "Daniel Wanjala",
-  "license": "ISC",
+  "author": "Dan",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Danco-Analytics/fruit_selling_react/issues"
   },
